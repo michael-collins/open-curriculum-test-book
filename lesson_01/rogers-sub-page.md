@@ -22,5 +22,24 @@ asdfsadfsa df
 
 asdfasdfa osdif ;aosidf as
 
-This is my new content
+This is my new content  
+
+
+{% tabs %}
+{% tab title="First Tab" %}
+alsdkfn;asdkf ;a sdi f;asodifnasdf
+{% endtab %}
+
+{% tab title="Second Tab" %}
+Your content goes here.
+{% endtab %}
+
+{% tab title="asdfasdfasdfsadf" %}
+
+{% endtab %}
+
+{% tab title="asdfsadfsadf" %}
+asdfasd;foinas;odifnasodifn
+{% endtab %}
+{% endtabs %}
 
